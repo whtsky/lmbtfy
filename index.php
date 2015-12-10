@@ -37,9 +37,9 @@
 		<img id="mouse" src="mouse.png" style="position:absolute;top:0.0px;left:0.0px;z-index:99999999999;"/>
 		<center style="margin-top:50px;">
 			<div id="logo">
-				<span>let me</span>
+				<span>让我帮你</span>
 				<img src="bdlogo.png" id="bdlogo"/>
-				<span>that for you</span>
+				<span>一下</span>
 			</div>
 			<div style="height:43px;margin-top:-25px;">
 				<input type="text" id="bds" autocomplete="off" readonly maxlength="100" />
